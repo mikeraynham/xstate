@@ -1,5 +1,11 @@
 # xstate
 
+## 4.18.0
+
+### Minor Changes
+
+- [`d0939ec6`](https://github.com/davidkpiano/xstate/commit/d0939ec60161c34b053cecdaeb277606b5982375) [#2046](https://github.com/davidkpiano/xstate/pull/2046) Thanks [@SimeonC](https://github.com/SimeonC)! - Allow machines to communicate with the inspector even in production builds.
+
 ## 4.17.1
 
 ### Patch Changes
